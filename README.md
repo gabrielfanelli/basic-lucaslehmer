@@ -1,5 +1,5 @@
 # Teste de Lucas-Lehmer
-Implementação simples do teste de Lucas-Lehmer utilizando a biblioteca GMP.
+Implementação simples do teste de Lucas-Lehmer em C utilizando a biblioteca GMP.
 
 Instruções:
 
@@ -8,4 +8,5 @@ Linux - https://gmplib.org/manual/Installing-GMP.html#Installing-GMP
 Windows - http://cs.nyu.edu/~exact/core/gmp/index.html
 
 Para compilar utilize o comando: gcc lucaslehmer.c -o lucaslehmer -lgmp
+
 Para executar: ./lucaslehmer
