@@ -1,4 +1,4 @@
-# basic-lucaslehmer
+# Teste de Lucas-Lehmer
 Implementação simples do teste de Lucas-Lehmer utilizando a biblioteca GMP.
 
 Instruções:
